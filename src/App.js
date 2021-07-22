@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
         <div className="App">
-            <Navbar bg="dark" variant="dark">
+            <Navbar className="fixed-top" bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand>
                         Rec Sys in ML
@@ -24,6 +24,7 @@ function App() {
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
+            <div className="ghostNavbar"></div>
 
             <Switch>
                 <Route path="/policies">
