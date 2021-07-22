@@ -1,0 +1,11 @@
+.Syllabus {
+    margin-top: 20px;
+}
+
+.syllabusTable .alignVertical {
+    vertical-align: middle;
+}
+
+.syllabusTable .alignCenter {
+    text-align: center;
+}
