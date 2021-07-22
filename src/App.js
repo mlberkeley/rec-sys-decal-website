@@ -11,7 +11,9 @@ function App() {
         <div className="App">
             <Navbar bg="dark" variant="dark">
                 <Container>
-                    <Navbar.Brand>Recommendation Systems in ML</Navbar.Brand>
+                    <Navbar.Brand>
+                        Rec Sys in ML
+                    </Navbar.Brand>
                     <Navbar.Toggle />
                     <Navbar.Collapse className="justify-content-end">
                         <Nav>
