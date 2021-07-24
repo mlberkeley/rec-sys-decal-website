@@ -24,7 +24,7 @@ function Instructors() {
                                     <h3 style={{textAlign: 'center'}}>{person.name}</h3>
                                     <div className="centerContent">
                                         <Badge bg="secondary">{person.role}</Badge>{' '}
-                                        <a href={person.link} target="_blank">
+                                        <a href={person.link} target="_blank" rel="noreferrer">
                                             <Badge bg="primary">
                                                 <LinkIcon />
                                             </Badge>

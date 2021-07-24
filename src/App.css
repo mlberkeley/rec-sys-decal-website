@@ -7,3 +7,25 @@
     display: block;
     text-align: center;
 }
+
+.fullRowText {
+    white-space: nowrap;
+}
+
+.alignVertical {
+    vertical-align: middle;
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+.navLink {
+    color: #9A9D9E !important;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.navLink:hover, .navLink.active, .brand {
+    color: white !important;
+}

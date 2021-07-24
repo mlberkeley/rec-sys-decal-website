@@ -2,18 +2,6 @@
     margin-top: 20px;
 }
 
-.syllabusTable .alignVertical {
-    vertical-align: middle;
-}
-
-.syllabusTable .alignCenter {
-    text-align: center;
-}
-
-.fullRowText {
-    white-space: nowrap;
-}
-
 .mlabLargeLogo {
     width: auto;
     height: 220px;

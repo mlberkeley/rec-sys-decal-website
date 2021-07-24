@@ -1,3 +1,18 @@
 .Policies {
     margin-top: 20px;
 }
+
+.policiesContent h3:first-child {
+    margin-top: 0;
+}
+
+td.number {
+    text-align: center;
+    font-weight: bold;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+.policiesContent div {
+    padding-top: 75px;
+}
