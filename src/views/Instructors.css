@@ -1,3 +1,11 @@
 .Instructors {
     margin-top: 20px;
 }
+
+.personImg {
+    width: 192px;
+    height: 192px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-bottom: 20px;
+}

@@ -9,3 +9,13 @@
 .syllabusTable .alignCenter {
     text-align: center;
 }
+
+.fullRowText {
+    white-space: nowrap;
+}
+
+.mlabLargeLogo {
+    width: auto;
+    height: 220px;
+    margin-left: 30px;
+}
