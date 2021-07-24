@@ -2,3 +2,8 @@
     height: 56px;
     width: 100%;
 }
+
+.centerContent {
+    display: block;
+    text-align: center;
+}
