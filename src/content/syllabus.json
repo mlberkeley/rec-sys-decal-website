@@ -3,108 +3,103 @@
     "week": 1,
     "date": "9/15",
     "topic": "Introduction to Recommendation Systems",
+    "quizLink": "https://www.google.com",
     "lectureLink": "https://www.google.com",
     "readings": [
       {
         "type": "paper",
         "title": "Recommender Systems: An Overview",
         "author": "Burke et. al.",
+        "link": "https://www.researchgate.net/publication/220604600_Recommender_Systems_An_Overview",
         "year": 2011
       }, {
         "type": "paper",
         "title": "Wide & Deep Learning for Recommender Systems",
-        "author": "Cheng et. al. (Google)",
+        "author": "Cheng et. al.",
+        "link": "https://arxiv.org/pdf/1606.07792.pdf",
         "year": 2016
       }
     ],
-    "assignmentName": "Cryptocurrency Recommender"
+    "assignment": {
+      "name": "Cryptocurrency Recommender",
+      "link": "https://www.google.com"
+    }
   },
   {
     "week": 2,
     "date": "9/22",
     "topic": "Primer on Statistical Methods & Machine Learning",
     "lectureLink": "",
-    "readings": [],
-    "assignmentName": ""
+    "readings": []
   },
   {
     "week": 3,
     "date": "9/29",
     "topic": "Content-Based Recommendation",
     "lectureLink": "",
-    "readings": [],
-    "assignmentName": ""
+    "readings": []
   },
   {
     "week": 4,
     "date": "10/06",
     "topic": "Collaborative Filtering",
     "lectureLink": "",
-    "readings": [],
-    "assignmentName": ""
+    "readings": []
   },
   {
     "week": 5,
     "date": "10/13",
     "topic": "Deep Learning, Convolutional Neural Networks, & Autoencoding",
     "lectureLink": "",
-    "readings": [],
-    "assignmentName": ""
+    "readings": []
   },
   {
     "week": 6,
     "date": "10/20",
     "topic": "Recurrent Neural Networks & Transformers",
     "lectureLink": "",
-    "readings": [],
-    "assignmentName": ""
+    "readings": []
   },
   {
     "week": 7,
     "date": "10/27",
     "topic": "Deep Reinforcement Learning & Generative Adversarial Networks",
     "lectureLink": "",
-    "readings": [],
-    "assignmentName": ""
+    "readings": []
   },
   {
     "week": 8,
     "date": "11/03",
     "topic": "Session-Based & Knowledge-Based Recommendation",
     "lectureLink": "",
-    "readings": [],
-    "assignmentName": ""
+    "readings": []
   },
   {
     "week": 9,
     "date": "11/10",
     "topic": "Scoring, Hybridization, Evaluation, & Deployment Methods",
     "lectureLink": "",
-    "readings": [],
-    "assignmentName": ""
+    "readings": []
   },
   {
     "week": 10,
     "date": "11/17",
     "topic": "Survey of Big Tech's Recommendation Systems & Ethics",
     "lectureLink": "",
-    "readings": [],
-    "assignmentName": ""
+    "readings": []
   },
   {
     "week": 11,
     "date": "11/24",
     "topic": "Decision-Making Psychology, Security, & Adversarial Attacks",
     "lectureLink": "",
-    "readings": [],
-    "assignmentName": ""
+    "readings": []
   },
   {
     "week": 12,
     "date": "12/01",
     "topic": "Finale & Project Presentations",
     "lectureLink": "",
-    "readings": [],
-    "assignmentName": ""
+    "readings": []
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "name": "Arvind Rajaraman",
-    "role": "Lead Student Instructor",
+    "role": "Head Instructor",
     "link": "https://www.linkedin.com/in/arvind-rajaraman",
     "imagePath": "/images/arvind.jpeg",
     "description": "I'm a sophomore EECS + Business major interested in deep learning, natural language processing, quantitative finance, and venture capital, as well as how to apply AI to the business world. I'm an Education Officer at ML@B and Researcher at BAIR. Outside of school, I like cooking, traveling, hiking, and watching TV shows! If you want to talk about ML, business, or literally anything, email me and let's chat!"
@@ -15,37 +15,37 @@
   },
   {
     "name": "Emi Tran",
-    "role": "Student Instructor",
+    "role": "Instructor",
     "link": "https://www.linkedin.com/in/emi-tran-737313106",
     "description": ""
   },
   {
     "name": "Andre He",
-    "role": "Student Instructor",
+    "role": "Instructor",
     "link": "https://www.linkedin.com/in/andre-he-08778219a",
     "description": ""
   },
   {
     "name": "Sid Ijju",
-    "role": "Student Instructor",
+    "role": "Instructor",
     "link": "https://www.linkedin.com/in/siddarth-ijju",
     "description": ""
   },
   {
     "name": "Tej Jogani",
-    "role": "Student Instructor",
+    "role": "Instructor",
     "link": "https://www.linkedin.com/in/tejvirjogani",
     "description": ""
   },
   {
     "name": "Max Smolin",
-    "role": "Student Instructor",
+    "role": "Instructor",
     "link": "https://www.linkedin.com/in/maximsmol",
     "description": "I’m a sophomore Computer Science student interested in great engineering, fixing the obvious, and building teams that work. As a programmer I am excited about Machine Learning in Computer Vision, as well as type theory, theoretical CS, and programming languages. In my spare time, I enjoy cooking, going on hikes, working out, and competitive video gaming."
   },
   {
     "name": "Arjun Sripathy",
-    "role": "Student Instructor",
+    "role": "Instructor",
     "link": "https://www.linkedin.com/in/arjunsripathy",
     "description": "I’m a third year EECS major broadly interested in how ML can improve various aspects of our everyday lives. I’m always excited to share my passion with others and get people thinking what’s possible with intelligent algorithms today! Academically, I enjoy research and teaching. Outside of that I love to spend time outdoors, play/watch sports, and talk with others about anything!"
   }
