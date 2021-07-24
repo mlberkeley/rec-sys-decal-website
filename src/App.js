@@ -39,17 +39,17 @@ function App() {
                 <div className="ghostNavbar" />
 
                 <Switch>
-                    <Route exact path="/syllabus">
+                    <Route exact path="/rec-sys-decal-website/syllabus">
                         <Syllabus />
                     </Route>
-                    <Route exact path="/policies">
+                    <Route exact path="/rec-sys-decal-website/policies">
                         <Policies />
                     </Route>
-                    <Route exact path="/staff">
+                    <Route exact path="/rec-sys-decal-website/staff">
                         <Instructors />
                     </Route>
-                    <Route exact path="/">
-                        <Redirect to="/syllabus" />
+                    <Route exact path="/rec-sys-decal-website/">
+                        <Redirect to="/rec-sys-decal-website/syllabus" />
                     </Route>
                 </Switch>
             </div>
