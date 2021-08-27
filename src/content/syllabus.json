@@ -32,7 +32,15 @@
     "topic": "Primer on Statistical Methods & Machine Learning",
     "description": "basic statistical metrics, basic NLP methods, introduction to machine learning, ML paradigms",
     "lectureLink": "",
-    "readings": []
+    "readings": [
+      {
+        "type": "paper",
+        "title": "A State-of-the-Art Survey on Deep Learning Theory and Architectures (Pages 1-10)",
+        "author": "Alom et. al.",
+        "link": "https://www.mdpi.com/2079-9292/8/3/292",
+        "year": 2019
+      }
+    ]
   },
   {
     "week": 3,
@@ -40,7 +48,22 @@
     "topic": "Content-Based Recommendation",
     "description": "using attributes of items to provide recommendations",
     "lectureLink": "",
-    "readings": []
+    "readings": [
+      {
+        "type": "paper",
+        "title": "Deep content-based music recommendation",
+        "author": "Oord et. al.",
+        "link": "https://dl.acm.org/doi/10.5555/2999792.2999907",
+        "year": 2013
+      },
+      {
+        "type": "paper",
+        "title": "DeepFM: A Factorization-Machine based Neural Network for CTR Prediction",
+        "author": "Guo et. al.",
+        "link": "https://arxiv.org/pdf/1703.04247.pdf",
+        "year": 2017
+      }
+    ]
   },
   {
     "week": 4,
@@ -48,7 +71,22 @@
     "topic": "Collaborative Filtering",
     "description": "using user behavior to provide recommendations",
     "lectureLink": "",
-    "readings": []
+    "readings": [
+      {
+        "type": "paper",
+        "title": "An Adaptive Similarity Measure to Tune Trust Influence in Memory-Based Collaborative Filtering",
+        "author": "Zarei et. al.",
+        "link": "https://arxiv.org/pdf/1912.08934.pdf",
+        "year": 2019
+      },
+      {
+        "type": "paper",
+        "title": "Scalable Collaborative Filtering with Jointly Derived Neighborhood Interpolation Weights",
+        "author": "Bell et. al.",
+        "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4470228",
+        "year": 2007
+      }
+    ]
   },
   {
     "week": 5,
