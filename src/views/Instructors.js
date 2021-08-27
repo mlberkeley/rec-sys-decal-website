@@ -19,7 +19,7 @@ function Instructors() {
                             <Card>
                                 <Card.Body>
                                     <div className="centerContent">
-                                        <img className="personImg" src={person.imagePath || "/images/blankpfp.png"} alt={person.name} />
+                                        <img className="personImg" src={"/rec-sys-decal-website/" + person.imagePath || "/rec-sys-decal-website/images/blankpfp.png"} alt={person.name} />
                                     </div>
                                     <h3 style={{textAlign: 'center'}}>{person.name}</h3>
                                     <div className="centerContent">

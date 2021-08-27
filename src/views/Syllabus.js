@@ -53,7 +53,7 @@ class Syllabus extends React.Component {
                             </td>
                             <td>
                                 <a href="https://ml.berkeley.edu/" target="_blank" rel="noreferrer">
-                                    <img className="mlabLargeLogo" src="/images/sponsors.png" alt="ML@B Logo" />
+                                    <img className="mlabLargeLogo" src="/rec-sys-decal-website/images/sponsors.png" alt="ML@B Logo" />
                                 </a>
                             </td>
                         </tr>
