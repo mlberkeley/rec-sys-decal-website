@@ -137,6 +137,7 @@ function Policies() {
                                         Weekly short open-book multiple choice forms based on lecture content to ensure that students are following the course (graded on % correct).
                                         <ul>
                                             <li>Each quiz graded on a curve:<br /><code>final_score = min(original_score / 0.9, 1)</code></li>
+                                            <li>We drop your 2 lowest quizzes (in accordance with the allowed 2 unexcused absences).</li>
                                             <li>Due usually 10-20 minutes after the start of lecture</li>
                                         </ul>
                                     </td>
@@ -146,7 +147,7 @@ function Policies() {
                                     <td className="number">30%</td>
                                     <td className="number">1.5 hr</td>
                                     <td>
-                                        Attendance to online lecture and participation in questions asked during class (graded based on effort rather than correctness in answering questions).
+                                        Attendance to online lecture and participation in questions asked during class (graded based on effort rather than correctness in answering questions). We allow up to 2 unexcused absences, so we will drop your 2 lowest participation grades.
                                     </td>
                                 </tr>
                             </tbody>
