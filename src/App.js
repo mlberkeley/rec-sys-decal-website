@@ -12,19 +12,19 @@ function App() {
                 <Navbar className="fixed-top" bg="dark" variant="dark">
                     <Container>
                         <Navbar.Brand>
-                            <NavLink className="navLink brand" to="/rec-sys-decal-website/syllabus">Rec Sys in ML</NavLink>
+                            <NavLink className="navLink brand" to="/syllabus">Rec Sys in ML</NavLink>
                         </Navbar.Brand>
                         <Navbar.Toggle />
                         <Navbar.Collapse className="justify-content-end">
                             <Nav>
                                 <Nav.Link>
-                                    <NavLink className="navLink" to="/rec-sys-decal-website/syllabus" activeClassName="active">Syllabus</NavLink>
+                                    <NavLink className="navLink" to="/syllabus" activeClassName="active">Syllabus</NavLink>
                                 </Nav.Link>
                                 <Nav.Link>
-                                    <NavLink className="navLink" to="/rec-sys-decal-website/policies" activeClassName="active">Policies</NavLink>
+                                    <NavLink className="navLink" to="/policies" activeClassName="active">Policies</NavLink>
                                 </Nav.Link>
                                 <Nav.Link>
-                                    <NavLink className="navLink" to="/rec-sys-decal-website/staff" activeClassName="active">Staff</NavLink>
+                                    <NavLink className="navLink" to="/staff" activeClassName="active">Staff</NavLink>
                                 </Nav.Link>
                                 <Nav.Link className="navLink" href="https://ml.berkeley.edu" target="_blank" rel="noreferrer">
                                     ML@B
@@ -39,17 +39,17 @@ function App() {
                 <div className="ghostNavbar" />
 
                 <Switch>
-                    <Route exact path="/rec-sys-decal-website/syllabus">
+                    <Route exact path="/syllabus">
                         <Syllabus />
                     </Route>
-                    <Route exact path="/rec-sys-decal-website/policies">
+                    <Route exact path="/policies">
                         <Policies />
                     </Route>
-                    <Route exact path="/rec-sys-decal-website/staff">
+                    <Route exact path="/staff">
                         <Instructors />
                     </Route>
                     <Route exact path="/">
-                        <Redirect to="/rec-sys-decal-website/syllabus" />
+                        <Redirect to="/syllabus" />
                     </Route>
                 </Switch>
             </div>
