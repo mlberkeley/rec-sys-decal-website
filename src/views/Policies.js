@@ -19,7 +19,7 @@ function Policies() {
                 <h2>Course Policies</h2>
                 <Row>
                     <Col sm={4}>
-                        <ListGroup style={{paddingTop: '75px'}} className="sticky-top">
+                        <ListGroup style={{paddingTop: '5px'}}>
                             <ListGroup.Item action href="#courseObjective"><Compass /> Course Objective</ListGroup.Item>
                             <ListGroup.Item action href="#classFormat"><People /> Class Format</ListGroup.Item>
                             <ListGroup.Item action href="#prerequisites"><ListTask /> Prerequisites</ListGroup.Item>
@@ -35,7 +35,7 @@ function Policies() {
                     <Col className="policiesContent" sm={8}>
                         <div id="courseObjective"></div>
                         <h3>Course Objective</h3>
-                        <p>In this course, you will learn how Big Tech (Facebook, TikTok, Amazon, Netflix, YouTube, etc.) develops content/product recommendation systems to provide customized experiences, increase engagement, and drive up customer satisfaction. Content-based, collaborative, knowledge-based, session-based, deep learning-based, and reinforcement learning-based systems will be explored. We’ll also delve into scoring, re-ranking, evaluation, deployment, ethics, decision-making psychology, and adversarial attacks. For each topic, we’ll cover definitions, reference papers, explore classical methods, look at current research, and list open questions. Lying at the intersection of machine learning and business, this course will be application-focused while prioritizing mathematical/technical rigor.</p>
+                        <p>In this course, you will learn how Big Tech (Facebook, TikTok, Amazon, Netflix, YouTube, etc.) develops content/product recommendation systems to provide customized experiences, increase engagement, and drive up customer satisfaction. We explore content-based and collaborative filtering paradigms, architectures using statistical methods, deep learning, CNNs, autoencoders, RNNs, Transformers, GANs, and deep RL. We’ll also delve into scoring, re-ranking, evaluation, deployment, ethics, decision-making psychology, and adversarial attacks. For each topic, we’ll cover definitions, reference papers, explore classical methods, look at current research, and list open questions. Lying at the intersection of machine learning and business, this course will be application-focused while prioritizing mathematical/technical rigor.</p>
 
                         <div id="classFormat"></div>
                         <h3>Class Format</h3>
@@ -160,6 +160,7 @@ function Policies() {
                     </Col>
                 </Row>
             </Container>
+            <br />
         </div>
     );
 }

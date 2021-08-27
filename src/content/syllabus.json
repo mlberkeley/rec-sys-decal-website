@@ -3,8 +3,9 @@
     "week": 1,
     "date": "9/15",
     "topic": "Introduction to Recommendation Systems",
-    "quizLink": "https://www.google.com",
-    "lectureLink": "https://www.google.com",
+    "description": "What are recommendation systems, their history, use cases, common problems dealt with in designing these systems",
+    "quizLink": "",
+    "lectureLink": "",
     "readings": [
       {
         "type": "paper",
@@ -22,13 +23,14 @@
     ],
     "assignment": {
       "name": "Cryptocurrency Recommender",
-      "link": "https://www.google.com"
+      "link": ""
     }
   },
   {
     "week": 2,
     "date": "9/22",
     "topic": "Primer on Statistical Methods & Machine Learning",
+    "description": "basic statistical metrics, basic NLP methods, introduction to machine learning, ML paradigms",
     "lectureLink": "",
     "readings": []
   },
@@ -36,6 +38,7 @@
     "week": 3,
     "date": "9/29",
     "topic": "Content-Based Recommendation",
+    "description": "using attributes of items to provide recommendations",
     "lectureLink": "",
     "readings": []
   },
@@ -43,6 +46,7 @@
     "week": 4,
     "date": "10/06",
     "topic": "Collaborative Filtering",
+    "description": "using user behavior to provide recommendations",
     "lectureLink": "",
     "readings": []
   },
@@ -50,6 +54,7 @@
     "week": 5,
     "date": "10/13",
     "topic": "Deep Learning, Convolutional Neural Networks, & Autoencoding",
+    "description": "using neural networks, image processing methods, and compressed representations to provide recommendations",
     "lectureLink": "",
     "readings": []
   },
@@ -57,6 +62,7 @@
     "week": 6,
     "date": "10/20",
     "topic": "Recurrent Neural Networks & Transformers",
+    "description": "analyzing the language in item descriptions using state-of-the-art NLP methods",
     "lectureLink": "",
     "readings": []
   },
@@ -64,6 +70,7 @@
     "week": 7,
     "date": "10/27",
     "topic": "Deep Reinforcement Learning & Generative Adversarial Networks",
+    "description": "getting recommendation systems to learn optimal recommendations, maximize metric(s)",
     "lectureLink": "",
     "readings": []
   },

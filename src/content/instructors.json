@@ -4,49 +4,48 @@
     "role": "Head Instructor",
     "link": "https://www.linkedin.com/in/arvind-rajaraman",
     "imagePath": "/images/arvind.jpeg",
-    "description": "I'm a sophomore EECS + Business major interested in deep learning, natural language processing, quantitative finance, and venture capital, as well as how to apply AI to the business world. I'm an Education Officer at ML@B and Researcher at BAIR. Outside of school, I like cooking, traveling, hiking, and watching TV shows! If you want to talk about ML, business, or literally anything, email me and let's chat!"
+    "description": "I'm a sophomore EECS + Business major interested in deep learning, reinforcement learning, entrepreneurship, and tech businesses, specifically applying AI to optimize business operations. I'm an Education Officer at ML@B and Researcher at BAIR. Outside of school, I like cooking, traveling, hiking, and watching TV shows! If you want to chat about anything, email me!"
   },
   {
     "name": "Anca Dragan",
     "role": "Faculty Sponsor",
     "link": "http://people.eecs.berkeley.edu/~anca/",
     "imagePath": "/images/anca.jpeg",
-    "description": "Professor Dragan is an Associate Professor at UC Berkeley's EECS Department. She runs the InterACT Lab, which focuses on algorithms for human-robot interaction in domains like autonomous vehicles, optimal control, and reinforcement learning, is part of BAIR's steering committee, and co-PI of the Center for Human-Compatible AI. Professor Dragan has 6,000+ citations and an h-index of 41."
-  },
-  {
-    "name": "Emi Tran",
-    "role": "Instructor",
-    "link": "https://www.linkedin.com/in/emi-tran-737313106",
-    "description": ""
+    "description": "Professor Dragan is an Associate Professor at UC Berkeley's EECS Department. She runs the InterACT Lab, which focuses on algorithms for human-robot interaction in domains like autonomous vehicles and reinforcement learning, is part of BAIR's steering committee, and co-PI of the Center for Human-Compatible AI. Professor Dragan has 6,000+ citations and an h-index of 41."
   },
   {
     "name": "Andre He",
     "role": "Instructor",
     "link": "https://www.linkedin.com/in/andre-he-08778219a",
-    "description": ""
+    "imagePath": "/images/andre.jpeg",
+    "description": "I’m a sophomore CS and Physics major with research interests in natural language processing and computer vision. I’m an Education Officer at ML@B and involved in research under Berkeley NLP. I like to spend my spare time gaming, watching shows, or learning skills for surviving in college."
+  },
+  {
+    "name": "Emi Tran",
+    "role": "Instructor",
+    "link": "https://www.linkedin.com/in/emi-tran-737313106",
+    "imagePath": "/images/emi.jpeg",
+    "description": "I’m a junior Computer Science major. I am working at NVIDIA on software engineering and applications for AI mapping. I love to run, play with dogs, and bird-watch my family’s cockatiels all day."
   },
   {
     "name": "Sid Ijju",
     "role": "Instructor",
     "link": "https://www.linkedin.com/in/siddarth-ijju",
-    "description": ""
-  },
-  {
-    "name": "Tej Jogani",
-    "role": "Instructor",
-    "link": "https://www.linkedin.com/in/tejvirjogani",
-    "description": ""
+    "imagePath": "/images/sid.png",
+    "description": "I’m a sophomore EECS + Business major interested in deep learning, brain-machine interfaces, and applied computer vision. I’m an Education Officer at ML@B, Technology Manager for Voyager Consulting, and an Assistant Officer for HKN. Outside of school, I like woodworking, baking, and watching anime! If we have any common interests, I’d love to chat!"
   },
   {
     "name": "Max Smolin",
     "role": "Instructor",
     "link": "https://www.linkedin.com/in/maximsmol",
-    "description": "I’m a sophomore Computer Science student interested in great engineering, fixing the obvious, and building teams that work. As a programmer I am excited about Machine Learning in Computer Vision, as well as type theory, theoretical CS, and programming languages. In my spare time, I enjoy cooking, going on hikes, working out, and competitive video gaming."
+    "imagePath": "/images/max.jpg",
+    "description": "I’m a sophomore Computer Science student interested in great engineering, fixing the obvious, and building teams that work. As a programmer, I am excited about Computer Vision, type theory, theoretical CS, and programming languages. In my spare time, I enjoy cooking, going on hikes, working out, and competitive video gaming."
   },
   {
     "name": "Arjun Sripathy",
     "role": "Instructor",
     "link": "https://www.linkedin.com/in/arjunsripathy",
+    "imagePath": "/images/arjun.jpg",
     "description": "I’m a third year EECS major broadly interested in how ML can improve various aspects of our everyday lives. I’m always excited to share my passion with others and get people thinking what’s possible with intelligent algorithms today! Academically, I enjoy research and teaching. Outside of that I love to spend time outdoors, play/watch sports, and talk with others about anything!"
   }
 ]

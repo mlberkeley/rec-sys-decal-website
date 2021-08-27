@@ -38,6 +38,8 @@ function Instructors() {
                     ))}
                 </Row>
             </Container>
+            <br />
+            <br />
         </div>
     );
 }

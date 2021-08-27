@@ -13,6 +13,10 @@ td.number {
     font-size: 20px;
 }
 
+.policiesContent div:first-child {
+    padding-top: 0;
+}
+
 .policiesContent div {
-    padding-top: 75px;
+    padding-top: 20px;
 }
