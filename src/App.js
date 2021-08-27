@@ -7,7 +7,7 @@ import Instructors from "./views/Instructors";
 
 function App() {
     return (
-        <Router>
+        <HashRouter>
             <div className="App">
                 <Navbar className="fixed-top" bg="dark" variant="dark">
                     <Container>
@@ -53,7 +53,7 @@ function App() {
                     </Route>
                 </Switch>
             </div>
-        </Router>
+        </HashRouter>
     );
 }
 
