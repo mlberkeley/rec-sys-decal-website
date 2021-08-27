@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rec-sys-decal-website/static/css/main.a44b9599.chunk.css",
-    "main.js": "/rec-sys-decal-website/static/js/main.fdbbece7.chunk.js",
-    "main.js.map": "/rec-sys-decal-website/static/js/main.fdbbece7.chunk.js.map",
+    "main.js": "/rec-sys-decal-website/static/js/main.7ec1e4fc.chunk.js",
+    "main.js.map": "/rec-sys-decal-website/static/js/main.7ec1e4fc.chunk.js.map",
     "runtime-main.js": "/rec-sys-decal-website/static/js/runtime-main.31a422ae.js",
     "runtime-main.js.map": "/rec-sys-decal-website/static/js/runtime-main.31a422ae.js.map",
     "static/css/2.4be38407.chunk.css": "/rec-sys-decal-website/static/css/2.4be38407.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.69b10378.chunk.js",
     "static/css/main.a44b9599.chunk.css",
-    "static/js/main.fdbbece7.chunk.js"
+    "static/js/main.7ec1e4fc.chunk.js"
   ]
 }
