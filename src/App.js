@@ -1,6 +1,6 @@
 import './App.css';
 import {Container, Nav, Navbar} from "react-bootstrap";
-import {BrowserRouter as Router, Switch, Route, NavLink, Redirect} from "react-router-dom";
+import {HashRouter as Router, Switch, Route, NavLink, Redirect} from "react-router-dom";
 import Policies from "./views/Policies";
 import Syllabus from "./views/Syllabus";
 import Instructors from "./views/Instructors";
