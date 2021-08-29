@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rec-sys-decal-website/static/css/main.a44b9599.chunk.css",
+    "main.css": "/rec-sys-decal-website/static/css/main.c2ec186b.chunk.css",
     "main.js": "/rec-sys-decal-website/static/js/main.52ce5b7f.chunk.js",
     "main.js.map": "/rec-sys-decal-website/static/js/main.52ce5b7f.chunk.js.map",
     "runtime-main.js": "/rec-sys-decal-website/static/js/runtime-main.31a422ae.js",
@@ -12,14 +12,14 @@
     "static/js/3.bd09ce1a.chunk.js.map": "/rec-sys-decal-website/static/js/3.bd09ce1a.chunk.js.map",
     "index.html": "/rec-sys-decal-website/index.html",
     "static/css/2.4be38407.chunk.css.map": "/rec-sys-decal-website/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.a44b9599.chunk.css.map": "/rec-sys-decal-website/static/css/main.a44b9599.chunk.css.map",
+    "static/css/main.c2ec186b.chunk.css.map": "/rec-sys-decal-website/static/css/main.c2ec186b.chunk.css.map",
     "static/js/2.5d33598d.chunk.js.LICENSE.txt": "/rec-sys-decal-website/static/js/2.5d33598d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.31a422ae.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.5d33598d.chunk.js",
-    "static/css/main.a44b9599.chunk.css",
+    "static/css/main.c2ec186b.chunk.css",
     "static/js/main.52ce5b7f.chunk.js"
   ]
 }
