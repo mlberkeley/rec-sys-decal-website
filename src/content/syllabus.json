@@ -4,8 +4,8 @@
     "date": "9/15",
     "topic": "Introduction to Recommendation Systems",
     "description": "What are recommendation systems, their history, use cases, common problems dealt with in designing these systems",
-    "quizLink": "",
-    "lectureLink": "",
+    "lectureLink": "https://youtu.be/c4LVMBE7AUQ",
+    "slidesLink": "https://docs.google.com/presentation/d/1hKrFZQAbY5y2X2x3JPyoxS7Zx3NaVKNuNkV6ncIFYq8/edit?usp=sharing",
     "readings": [
       {
         "type": "paper",
@@ -20,18 +20,17 @@
         "link": "https://arxiv.org/pdf/1606.07792.pdf",
         "year": 2016
       }
-    ],
-    "assignment": {
-      "name": "Cryptocurrency Recommender",
-      "link": ""
-    }
+    ]
   },
   {
     "week": 2,
     "date": "9/22",
     "topic": "Primer on Statistical Methods & Machine Learning",
     "description": "basic statistical metrics, basic NLP methods, introduction to machine learning, ML paradigms",
-    "lectureLink": "",
+    "quizLink": "https://docs.google.com/forms/d/e/1FAIpQLSfUL7Im8SG53AcFDTmIpnrM0qh6EDRqlMlB53uXzkWJPNB0Qg/viewform",
+    "quizDueDate": "9/22",
+    "lectureLink": "https://youtu.be/kQysHK1zeCY",
+    "slidesLink": "https://docs.google.com/presentation/d/1OQOkzw0E6MBiRz34OS1BiqYV9WdWaoxbhmqgVqgY4XM/edit?usp=sharing",
     "readings": [
       {
         "type": "paper",
@@ -40,14 +39,22 @@
         "link": "https://www.mdpi.com/2079-9292/8/3/292",
         "year": 2019
       }
-    ]
+    ],
+    "assignment": {
+      "name": "NumPy Introduction & Naive Movie Recommender",
+      "link": "https://drive.google.com/drive/folders/1ywbD4lqZPrThSd0QmKLqS2DifbICTZHb?usp=sharing",
+      "dueDate": "9/26"
+    }
   },
   {
     "week": 3,
     "date": "9/29",
     "topic": "Content-Based Recommendation",
     "description": "using attributes of items to provide recommendations",
-    "lectureLink": "",
+    "quizLink": "https://docs.google.com/forms/d/e/1FAIpQLSejb91j0PX4lmaK3MUfSFVAKTzNg9BsiL6QEMzIl96fHl6g1Q/viewform",
+    "quizDueDate": "9/29",
+    "lectureLink": "https://youtu.be/hkP3RQbAAvA",
+    "slidesLink": "https://docs.google.com/presentation/d/1SYdavBlbhwMNlVdBOdByHkukW7dg5gIhp0Yr2VaPFrM/edit?usp=sharing",
     "readings": [
       {
         "type": "paper",
@@ -63,14 +70,21 @@
         "link": "https://arxiv.org/pdf/1703.04247.pdf",
         "year": 2017
       }
-    ]
+    ],
+    "assignment": {
+      "name": "Iris Plant Classification & Data Pre-Processing",
+      "link": "https://drive.google.com/drive/folders/1_5g4I0EVDdlCng9Pij1f7xFoWLHHaoQA?usp=sharing",
+      "dueDate": "10/06"
+    }
   },
   {
     "week": 4,
     "date": "10/06",
     "topic": "Collaborative Filtering",
     "description": "using user behavior to provide recommendations",
+    "quizLink": "",
     "lectureLink": "",
+    "slidesLink": "",
     "readings": [
       {
         "type": "paper",
@@ -86,14 +100,20 @@
         "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4470228",
         "year": 2007
       }
-    ]
+    ],
+    "assignment": {
+      "name": "NLP-Based Movie Recommender",
+      "dueDate": "10/13"
+    }
   },
   {
     "week": 5,
     "date": "10/13",
     "topic": "Deep Learning, Convolutional Neural Networks, & Autoencoding",
     "description": "using neural networks, image processing methods, and compressed representations to provide recommendations",
+    "quizLink": "",
     "lectureLink": "",
+    "slidesLink": "",
     "readings": []
   },
   {
@@ -101,7 +121,9 @@
     "date": "10/20",
     "topic": "Recurrent Neural Networks & Transformers",
     "description": "analyzing the language in item descriptions using state-of-the-art NLP methods",
+    "quizLink": "",
     "lectureLink": "",
+    "slidesLink": "",
     "readings": []
   },
   {
@@ -109,42 +131,54 @@
     "date": "10/27",
     "topic": "Deep Reinforcement Learning & Generative Adversarial Networks",
     "description": "getting recommendation systems to learn optimal recommendations, maximize metric(s)",
+    "quizLink": "",
     "lectureLink": "",
+    "slidesLink": "",
     "readings": []
   },
   {
     "week": 8,
     "date": "11/03",
     "topic": "Session-Based & Knowledge-Based Recommendation",
+    "quizLink": "",
     "lectureLink": "",
+    "slidesLink": "",
     "readings": []
   },
   {
     "week": 9,
     "date": "11/10",
     "topic": "Scoring, Hybridization, Evaluation, & Deployment Methods",
+    "quizLink": "",
     "lectureLink": "",
+    "slidesLink": "",
     "readings": []
   },
   {
     "week": 10,
     "date": "11/17",
     "topic": "Survey of Big Tech's Recommendation Systems & Ethics",
+    "quizLink": "",
     "lectureLink": "",
+    "slidesLink": "",
     "readings": []
   },
   {
     "week": 11,
     "date": "11/24",
     "topic": "Decision-Making Psychology, Security, & Adversarial Attacks",
+    "quizLink": "",
     "lectureLink": "",
+    "slidesLink": "",
     "readings": []
   },
   {
     "week": 12,
     "date": "12/01",
     "topic": "Finale & Project Presentations",
+    "quizLink": "",
     "lectureLink": "",
+    "slidesLink": "",
     "readings": []
   }
 ]

@@ -86,18 +86,18 @@ class Syllabus extends React.Component {
 
                     <hr />
                     <h3>Syllabus</h3>
-                    <p><b>Note:</b> This syllabus may be subject to change.</p>
+                    <p><b>Note:</b> This syllabus may be subject to change. All assignments are due on the date listed at 11:59 PM.</p>
                     <br />
                     <Table className="syllabusTable">
                         <thead>
                         <tr>
-                            <th>Week</th>
-                            <th>Date</th>
-                            <th>Topic</th>
-                            <th>Lecture</th>
-                            <th>Quiz</th>
-                            <th>Assignment</th>
-                            <th>Readings</th>
+                            <th className="alignCenter">Week</th>
+                            <th className="alignCenter">Date</th>
+                            <th className="alignCenter">Topic</th>
+                            <th className="alignCenter">Lecture</th>
+                            <th className="alignCenter">Quiz</th>
+                            <th className="alignCenter">Assignment</th>
+                            <th className="alignCenter">Readings</th>
                         </tr>
                         </thead>
                         <tbody>
@@ -115,28 +115,41 @@ class Syllabus extends React.Component {
                                     <td className="alignVertical" rowspan={rowspan}>
                                         {week.topic}
                                     </td>
-                                    <td className="fullRowText" rowspan={rowspan}>
-                                        <span>
-                                            Lecture {idx+1}{' '}
-                                            {week.lectureLink && (
+                                    <td className="fullRowText alignVertical alignCenter" rowspan={rowspan}>
+                                        {week.lectureLink && (
+                                            <span>
+                                                Lecture{' '}
                                                 <a href={week.lectureLink} target="_blank" rel="noreferrer">
                                                     <LinkIcon />
                                                 </a>
-                                            )}
-                                        </span>
+                                                <br />
+                                            </span>
+                                        )}
+                                        {week.slidesLink && (
+                                            <span>
+                                                Slides{' '}
+                                                {week.slidesLink && (
+                                                    <a href={week.slidesLink} target="_blank" rel="noreferrer">
+                                                        <LinkIcon />
+                                                    </a>
+                                                )}
+                                                <br />
+                                            </span>
+                                        )}
                                     </td>
-                                    <td className="fullRowText" rowspan={rowspan}>
-                                        <span>
-                                            Quiz {idx+1}{' '}
-                                            {week.quizLink && (
+                                    <td className="fullRowText alignVertical alignCenter" rowspan={rowspan}>
+                                        {week.quizLink && (
+                                            <span>
+                                                Quiz{' '}
                                                 <a href={week.quizLink} target="_blank" rel="noreferrer">
                                                     <LinkIcon />
                                                 </a>
-                                            )}
-                                        </span>
-
+                                                <br />
+                                                <span style={{fontWeight: '300', fontSize: '14px'}}>due {week.quizDueDate}</span>
+                                            </span>
+                                        )}
                                     </td>
-                                    <td rowspan={rowspan}>
+                                    <td className="alignVertical alignCenter" rowspan={rowspan}>
                                         {week.assignment && (
                                             <span>
                                                 {week.assignment.name}{' '}
@@ -145,6 +158,8 @@ class Syllabus extends React.Component {
                                                         <LinkIcon />
                                                     </a>
                                                 )}
+                                                <br />
+                                                <span style={{fontWeight: '300', fontSize: '14px'}}>due {week.assignment.dueDate}</span>
                                             </span>
                                         )}
                                     </td>
