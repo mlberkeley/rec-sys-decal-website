@@ -82,9 +82,10 @@
     "date": "10/06",
     "topic": "Collaborative Filtering",
     "description": "using user behavior to provide recommendations",
-    "quizLink": "",
-    "lectureLink": "",
-    "slidesLink": "",
+    "quizLink": "https://docs.google.com/forms/d/e/1FAIpQLSdZu8z692pXLUpkE2PmQjMNv6A4zxL3r_Jf6s592vbkUQ8LwQ/viewform",
+    "quizDueDate": "10/09",
+    "lectureLink": "https://youtu.be/EuUGzrAahuo",
+    "slidesLink": "https://docs.google.com/presentation/d/1jopN4GeZOpxkhbYhbcNN_C-4EF5X5hmZTsoJ9AlB2ZM/edit?usp=sharing",
     "readings": [
       {
         "type": "paper",
@@ -102,7 +103,8 @@
       }
     ],
     "assignment": {
-      "name": "NLP-Based Movie Recommender",
+      "name": "NLP & Classical Statistics-Based Movie Recommender",
+      "link": "https://drive.google.com/drive/folders/182ujQRnfZd16PFwSCsaDKbVDJYEHvZm6?usp=sharing",
       "dueDate": "10/13"
     }
   },
@@ -111,10 +113,31 @@
     "date": "10/13",
     "topic": "Deep Learning, Convolutional Neural Networks, & Autoencoding",
     "description": "using neural networks, image processing methods, and compressed representations to provide recommendations",
-    "quizLink": "",
-    "lectureLink": "",
-    "slidesLink": "",
-    "readings": []
+    "quizLink": "https://docs.google.com/forms/d/e/1FAIpQLScs65FT7rB2070H0B3HtM8EqNGHE_X23g30bfnUH0kgUstjhA/viewform",
+    "quizDueDate": "10/16",
+    "lectureLink": "https://youtu.be/pmJYvhy3xjo",
+    "slidesLink": "https://docs.google.com/presentation/d/1dx-rym1KK_gm7uEe3wNsaNbjRGWTAH_Jr67ItRi3-Hs/edit?usp=sharing",
+    "readings": [
+      {
+        "type": "paper",
+        "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+        "author": "Krizhevsky et. al.",
+        "link": "https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
+        "year": 2012
+      },
+      {
+        "type": "paper",
+        "title": "An Explainable Autoencoder For Collaborative Filtering\nRecommendation",
+        "author": "Haghighi et. al.",
+        "link": "https://arxiv.org/pdf/2001.04344.pdf",
+        "year": 2019
+      }
+    ],
+    "assignment": {
+      "name": "Multilayer-Perceptron-Powered Movie Recommender",
+      "link": "https://drive.google.com/drive/u/1/folders/16J37b0Fli0BvWkebZYyXPZYlCrNG3Oj6",
+      "dueDate": "10/26"
+    }
   },
   {
     "week": 6,

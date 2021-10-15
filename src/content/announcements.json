@@ -1,5 +1,9 @@
 [
   {
+    "date": "October 14, 2021",
+    "announcement": "Welcome to Week 5 of this course. We have covered the basics of recommendation systems as of now, specifically the 2 paradigms of content-based recommendation and collaborative filtering. From here on, we will cover modern methods of implementing these paradigms. For example, this week we've covered how to use neural networks and autoencoders to help encode user/item information. Due dates for this week's assignment and quiz are posted below!"
+  },
+  {
     "date": "September 29, 2021",
     "announcement": "Welcome to Week 3 of this course! In lecture this week, we covered content-based recommendation. The lecture, slides, assignment, quiz, and readings are given in the table below. The assignment is due by the end of day of next lecture (10/06 11:59 PM) and the quiz was due on 09/29 11:59 PM. Please have the readings done anytime before next lecture, so that you can reinforce the content."
   },
