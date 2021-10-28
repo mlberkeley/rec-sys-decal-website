@@ -145,9 +145,15 @@
     "topic": "Recurrent Neural Networks & Transformers",
     "description": "analyzing the language in item descriptions using state-of-the-art NLP methods",
     "quizLink": "https://www.gradescope.com/courses/281648/assignments/1594912",
+    "quizDueDate": "10/27",
     "lectureLink": "https://youtu.be/FxXYHd0K9OU",
     "slidesLink": "https://docs.google.com/presentation/d/1FKu3UuO838tWwDpRw2TXuuUlRvE3NonYqgLZBie1c6E/edit",
-    "readings": []
+    "readings": [],
+    "assignment": {
+      "name": "Playing with Transformers",
+      "link": "https://drive.google.com/drive/folders/1AsRZQXs7LwqxivpehImbzsrl8gU9yB5D?usp=sharing",
+      "dueDate": "10/29"
+    }
   },
   {
     "week": 7,
@@ -155,9 +161,15 @@
     "topic": "Deep Reinforcement Learning & Generative Adversarial Networks",
     "description": "getting recommendation systems to learn optimal recommendations, maximize metric(s)",
     "quizLink": "",
+    "quizDueDate": "11/03",
     "lectureLink": "",
     "slidesLink": "https://docs.google.com/presentation/d/1gQVAPgsBl9Rpa2LCUVxCH_3cK2oIc1goVK18cpOJWZE/edit",
-    "readings": []
+    "readings": [],
+    "assignment": {
+      "name": "How GANs Work",
+      "link": "https://drive.google.com/drive/folders/1I6ag-vxyJB_kbNNVqtRg-Sxc54rLcGUh?usp=sharing",
+      "dueDate": "11/05"
+    }
   },
   {
     "week": 8,
