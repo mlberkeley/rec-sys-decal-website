@@ -144,9 +144,9 @@
     "date": "10/20",
     "topic": "Recurrent Neural Networks & Transformers",
     "description": "analyzing the language in item descriptions using state-of-the-art NLP methods",
-    "quizLink": "",
-    "lectureLink": "",
-    "slidesLink": "",
+    "quizLink": "https://www.gradescope.com/courses/281648/assignments/1594912",
+    "lectureLink": "https://youtu.be/FxXYHd0K9OU",
+    "slidesLink": "https://docs.google.com/presentation/d/1FKu3UuO838tWwDpRw2TXuuUlRvE3NonYqgLZBie1c6E/edit",
     "readings": []
   },
   {
@@ -156,7 +156,7 @@
     "description": "getting recommendation systems to learn optimal recommendations, maximize metric(s)",
     "quizLink": "",
     "lectureLink": "",
-    "slidesLink": "",
+    "slidesLink": "https://docs.google.com/presentation/d/1gQVAPgsBl9Rpa2LCUVxCH_3cK2oIc1goVK18cpOJWZE/edit",
     "readings": []
   },
   {
